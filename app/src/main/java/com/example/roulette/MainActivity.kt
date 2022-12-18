@@ -819,7 +819,7 @@ class MainActivity : AppCompatActivity() {
             bet35.setTextColor(Color.WHITE)
         }
 
-        bet0.setOnClickListener{
+        /* bet0.setOnClickListener{
             if (chip1.isChecked){
                 wager1.visibility=View.VISIBLE
                 wager10.visibility=View.GONE
@@ -841,7 +841,7 @@ class MainActivity : AppCompatActivity() {
                 wager5.visibility=View.GONE
                 wager25.visibility=View.VISIBLE
             }
-        }
+        } */
 
     }
 
